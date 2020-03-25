@@ -1,6 +1,3 @@
-/*
- * Decompiled with CFR 0_115.
- */
 package my.elecConfig.lib;
 
 import java.io.PrintStream;
