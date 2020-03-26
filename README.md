@@ -1,5 +1,5 @@
 # electronConfig
-Generates electron configuration for the any atomic number
+Electron configuration generator for the any atom
 
 Usage:
 ```bash
