@@ -1,4 +1,5 @@
 # electronConfig
+Generates electron configuration for the any atomic number
 
 Usage:
 ```bash
